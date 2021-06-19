@@ -69,13 +69,13 @@
     margin-right: map-get($spacers, 3);
     vertical-align: middle;
     @include media-breakpoint-down(md) {
-      width: map-get($base, font-size-h5) * 2.5;
-      height: map-get($base, font-size-h5) * 2.5;
+      width: map-get($base, font-size-h4) * 2.5;
+      height: map-get($base, font-size-h4) * 2.5;
     }
   }
   & > a {
     display: inline-block;
-    font-size: map-get($base, font-size-h4);
+    font-size: map-get($base, font-size-h2);
     @include media-breakpoint-down(md) {
       font-size: map-get($base, font-size-h4-small);
     }
