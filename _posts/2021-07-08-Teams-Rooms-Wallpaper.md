@@ -21,7 +21,7 @@ This is a rounded button
 This is a `CodE` test. 
 
 This is a powershell code bracket
-```PowerShell
+```
 Get-ComputerInfo -Path C:\users
 
 A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
